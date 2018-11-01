@@ -24,9 +24,8 @@ Tùy mục đích và ý thích bạn có thể sử dụng cách này để th�
 
 **2. Chèn link, chèn ảnh**
 
-Để chèn hyperlink bạn chỉ cần paste luôn linh đó vào file .md
+Để chèn hyperlink bạn chỉ cần paste luôn link đó vào file .md
 
-https://www.google.com.vn
 https://www.google.com.vn
 
 Hoặc bạn cũng có thể sử dụng cú pháp sau để thu ngắn đường dẫn của link
@@ -36,15 +35,11 @@ Kết quả là:
 
 Google
 
-Để chèn ảnh thì sử dụng cú pháp sau:
+Để chèn ảnh thì sử dụng cú pháp sau: 
 
-<img src="link_anh_cua_ban">
+Cú pháp: <img src="link hình ảnh"> VD: <img src="https://imgur.com/gallery/TkFRkXz">
 
-<img src="https://imgur.com/a/s2GYuzb">
 
-Tôi thường sử dụng công cụ Lightshot để chụp ảnh màn hình và up hình đó lên trang http://i.imgur.com/ để lấy đường dẫn ảnh đưa vào Github
-
-Hai công cụ này khá dễ sử dụng, bạn chỉ cần chụp màn hình bằng Lightshot ấn Ctrl + C để copy và Ctrl + V để paste vào trình duyệt tại trang web http://i.imgur.com/
 
 
 3. Ký tự in đậm, in nghiêng
